@@ -17,3 +17,8 @@ Generative AI는 Vector database와 같은 외부 지식(External Knowledge Base
 ### OpenSearch
 
 ### PostgreSQL
+
+
+## Reference 
+
+[Powering AI apps with AWS vector database options: Amazon OpenSearch Service and Amazon RDS for PostgreSQL - dbCON 2023](https://broadcast.amazon.com/videos/812948)
