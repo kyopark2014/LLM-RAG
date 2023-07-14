@@ -8,6 +8,8 @@
 
 <img src="https://github.com/kyopark2014/LLM-RAG/assets/52392004/fc07e189-4767-42c4-92f6-1aca8ce6cd8d" width="600">
 
+![image](https://github.com/kyopark2014/LLM-RAG/assets/52392004/31029f78-d242-438f-8e63-d31596d4e79d)
+
 
 * [Building AI-powered search in PostgreSQL using Amazon SageMaker and pgvector](https://aws.amazon.com/blogs/database/building-ai-powered-search-in-postgresql-using-amazon-sagemaker-and-pgvector/) 참고
  
