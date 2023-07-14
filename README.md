@@ -16,9 +16,16 @@ Generative AI는 Vector database와 같은 외부 지식(External Knowledge Base
 
 ### OpenSearch
 
+[Amazon OpenSearch Service’s vector database capabilities explained](https://aws.amazon.com/ko/blogs/big-data/amazon-opensearch-services-vector-database-capabilities-explained/)와 아래처럼 구성이 가능합니다.
+
+![image](https://github.com/kyopark2014/LLM-RAG/assets/52392004/5c0f1df7-0f42-4086-a641-fe92a66835cf)
+
+
 ### PostgreSQL
 
 
 ## Reference 
 
 [Powering AI apps with AWS vector database options: Amazon OpenSearch Service and Amazon RDS for PostgreSQL - dbCON 2023](https://broadcast.amazon.com/videos/812948)
+
+[Amazon OpenSearch Service’s vector database capabilities explained](https://aws.amazon.com/ko/blogs/big-data/amazon-opensearch-services-vector-database-capabilities-explained/)
