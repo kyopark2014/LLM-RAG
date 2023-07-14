@@ -1,6 +1,12 @@
 # LLM-RAG
 
 
+## Embedding
+
+- Embedding은 대규모 언어 모델(LLM)에 있는 텍스트들의 연관성(Sementic meaning)을 Vector로 표현합니다.  
+  - Embeddings are numerical representations (vectors) created from generative AI that capture the semantic meaning of text input into a large language model (LLM)
+
+ 
 ## Vector database
 
 - 이미지, 문서(text document), 오디오와 같지 구조화되지 않은 컨텐츠(unstructured content)를 표현하는데 용이
@@ -23,6 +29,7 @@ Generative AI는 Vector database와 같은 외부 지식(External Knowledge Base
 
 ### PostgreSQL
 
+2023년 5월 부터 RDS for PostgreSQL과 ML 모델 통합을 위해 [pgvector](https://aws.amazon.com/ko/about-aws/whats-new/2023/05/amazon-rds-postgresql-pgvector-ml-model-integration/)가 지원됩니다. 따라서, ML 모델의 Embedding을 데이터베이스에 저장하고 유사성검색(similarity search)을 할 수 있습니다.  
 
 ## Reference 
 
