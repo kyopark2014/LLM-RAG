@@ -6,6 +6,8 @@
 - Embedding은 대규모 언어 모델(LLM)에 있는 텍스트들의 연관성(Sementic meaning)을 벡터(Vector)로 표현합니다.  
   - Embeddings are numerical representations (vectors) created from generative AI that capture the semantic meaning of text input into a large language model (LLM)
 
+![image](https://github.com/kyopark2014/LLM-RAG/assets/52392004/fc07e189-4767-42c4-92f6-1aca8ce6cd8d)
+* [Building AI-powered search in PostgreSQL using Amazon SageMaker and pgvector](https://aws.amazon.com/blogs/database/building-ai-powered-search-in-postgresql-using-amazon-sagemaker-and-pgvector/) 참고
  
 ## Vector database
 
