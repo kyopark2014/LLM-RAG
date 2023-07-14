@@ -3,7 +3,7 @@
 
 ## Embedding
 
-- Embedding은 대규모 언어 모델(LLM)에 있는 텍스트들의 연관성(Sementic meaning)을 Vector로 표현합니다.  
+- Embedding은 대규모 언어 모델(LLM)에 있는 텍스트들의 연관성(Sementic meaning)을 벡터(Vector)로 표현합니다.  
   - Embeddings are numerical representations (vectors) created from generative AI that capture the semantic meaning of text input into a large language model (LLM)
 
  
