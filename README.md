@@ -1,2 +1,8 @@
 # LLM-RAG
-It describes RAG for LLM
+
+
+## Vector database
+
+### OpenSearch
+
+### PostgreSQL
